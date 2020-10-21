@@ -1,0 +1,58 @@
+.big{
+    width: 320px;
+    height: 160px;
+    background-color: black;
+    position: absolute;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.orange1{
+    width: 320px;
+    height: 30px;
+    background: orange;
+}
+
+.red{
+    width: 80px;
+    height: 100px;
+    background: red;
+    display: inline-block;
+    float: left;
+}
+.green{
+    width: 80px;
+    height: 100px;
+    background: green;
+    display: inline-block;
+    float: left;
+}
+.blue{
+    width: 80px;
+    height: 100px;
+    background: blue;
+    display: inline-block;
+    float: left;
+    
+}
+.black{
+    width: 80px;
+    height: 100px;
+    background:black;
+    display: inline-block;
+    float: left;
+
+}
+.orange2{
+    width: 320px;
+    height: 30px;
+    background: orange;
+    margin-top: 100px;
+}
+
+.wrapper{
+    position: relative;
+
+}
