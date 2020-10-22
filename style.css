@@ -2,7 +2,7 @@
     width: 320px;
     height: 160px;
     background-color: black;
-    position: absolute;
+    
 
 }
 *{
@@ -13,6 +13,7 @@
     width: 320px;
     height: 30px;
     background: orange;
+    float: left;
 }
 
 .red{
@@ -49,10 +50,7 @@
     width: 320px;
     height: 30px;
     background: orange;
-    margin-top: 100px;
+    float: left;
+    clear: both;
 }
 
-.wrapper{
-    position: relative;
-
-}
